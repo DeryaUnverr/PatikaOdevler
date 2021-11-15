@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev4", "Odev4\Odev4.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev5", "Odev5\Odev5.csproj", "{44DF50A3-C985-4F95-825B-34D1526F5C3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev6", "Odev6\Odev6.csproj", "{C32E29C0-4C31-434F-874C-667AD30B24B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{44DF50A3-C985-4F95-825B-34D1526F5C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44DF50A3-C985-4F95-825B-34D1526F5C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44DF50A3-C985-4F95-825B-34D1526F5C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32E29C0-4C31-434F-874C-667AD30B24B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32E29C0-4C31-434F-874C-667AD30B24B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32E29C0-4C31-434F-874C-667AD30B24B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32E29C0-4C31-434F-874C-667AD30B24B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
