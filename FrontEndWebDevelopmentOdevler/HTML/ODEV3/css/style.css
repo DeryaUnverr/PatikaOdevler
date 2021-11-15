@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: mediumpurple;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+h1{
+    font-weight: bold;
+    color:khaki;
+    font-size: 36px;
+    font-style: italic;
+}
+
+p{
+    font-size: 18px;
+  
+    font-weight: bold;
+}
+renk{
+        color: rgb(12, 12, 12);
+}
+li{
+    font-size: 18px;
+}
+
