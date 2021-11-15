@@ -10,7 +10,7 @@ namespace Odev6
     {
         static void Main(string[] args)
         {
-            Console.Title("İf-Else / Ternary Operatoru");
+            Console.Title="İf-Else / Ternary Operatoru";
             Console.WriteLine("Yapmak istediğiniz işlemi seçiniz\n1.Toplama\n2.Çıkarma\n3.Çarpma\n4.Bölme");
             char secim = Console.ReadKey(true).KeyChar;
             Console.Write("Birinci sayı: ");
