@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev14", "Odev14\Odev14.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSorularıOdev1", "AlgoritmaSorularıOdev1\AlgoritmaSorularıOdev1.csproj", "{B74DFF53-4742-449D-A1FB-E0714E213DD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev15", "Odev15\Odev15.csproj", "{B166A515-0E13-4A41-9375-5579135EDF89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B166A515-0E13-4A41-9375-5579135EDF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B166A515-0E13-4A41-9375-5579135EDF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B166A515-0E13-4A41-9375-5579135EDF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B166A515-0E13-4A41-9375-5579135EDF89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
