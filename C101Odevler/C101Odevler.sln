@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev13", "Odev13\Odev13.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev14", "Odev14\Odev14.csproj", "{7643BFFD-525C-4B09-98D3-2AA32247ED56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSorularıOdev1", "AlgoritmaSorularıOdev1\AlgoritmaSorularıOdev1.csproj", "{B74DFF53-4742-449D-A1FB-E0714E213DD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{7643BFFD-525C-4B09-98D3-2AA32247ED56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7643BFFD-525C-4B09-98D3-2AA32247ED56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7643BFFD-525C-4B09-98D3-2AA32247ED56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74DFF53-4742-449D-A1FB-E0714E213DD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
