@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev22", "Ornek22\Odev22.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev23", "Odev23\Odev23.csproj", "{5DABC62E-5AB8-43C7-986A-E448588A77E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev24", "Odev24\Odev24.csproj", "{EC968F3C-0A0C-4937-AA71-FAA7AFF859C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{5DABC62E-5AB8-43C7-986A-E448588A77E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DABC62E-5AB8-43C7-986A-E448588A77E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DABC62E-5AB8-43C7-986A-E448588A77E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC968F3C-0A0C-4937-AA71-FAA7AFF859C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC968F3C-0A0C-4937-AA71-FAA7AFF859C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC968F3C-0A0C-4937-AA71-FAA7AFF859C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC968F3C-0A0C-4937-AA71-FAA7AFF859C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
